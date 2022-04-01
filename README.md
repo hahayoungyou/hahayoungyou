@@ -10,7 +10,6 @@
 
 - [2020.07 ~ 2020.08] 학생식당 어플리케이션
 - [2020.12 ~ 2021.06] 의료 커뮤니티
-- [2022.02.25 ~  진행중] 쇼핑몰
 
 
 ![hahayoungyou's github stats](https://github-readme-stats.vercel.app/api?username=hahayoungyou&show_icons=true)
